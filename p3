@@ -2,6 +2,8 @@
 <body>
   <h1>My Power BI Portfolio</h1>
   <p><a href="file:///C:/Users/WALTON/Downloads/p3.pdf">View Dashboard PDF</a></p>
-  <img src="dashboard_screenshot.png" alt="Dashboard">
+  <p><a href="https://app.powerbi.com/groups/me/reports/9a1ea984-3200-4827-9905-dca2399fe0ca/cca3bfa911b9dadf3896?experience=power-bi">Power BI Dashboard</a></p>
+  <p><a href="https://raw.githubusercontent.com/jk-mn/p3/refs/heads/main/financial_analysis.sql">SQL Script</a></p>   
+<img src="dashboard_screenshot.png" alt="Dashboard">
 </body>
 </html>
