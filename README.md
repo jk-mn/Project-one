@@ -30,13 +30,23 @@ Data Visualization	Power BI
 
 Dataset	Superstore Dataset (Kaggle-style retail sales data)
 
-📂 Files in This Repository
+## 🔧 Data Cleaning Script
 
-financial_analysis.sql	SQL queries used for data cleaning & transformation. 🔗 View SQL
+The `clean_superstore.py` script loads the original "Superstore" dataset, cleans product names by removing extra whitespace, special characters, and formatting inconsistencies, then saves a clean CSV for use in Power BI.
 
-p3.PBIX	Power BI file used to create the interactive dashboard.
+- Language: Python (Pandas, regex)
+- Handles: NaNs, non-breaking spaces, quotes, commas
+- Designed for reproducibility and modularity
 
-p3.pdf	Static screenshots of the final dashboard.
+
+| File                     | Description                                                                                                                                           |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `financial_analysis.sql` | SQL queries used for data cleaning, transformation, and aggregating performance metrics before visualization. 🔗 [View SQL](./financial_analysis.sql) |
+| `clean_superstore.py`    | Python script to clean raw data—removes special characters, normalizes whitespace, and prepares the dataset for analysis. Modular and reproducible.   |
+| `Superstore_Cleaned.csv` | Cleaned dataset output from `clean_superstore.py`. Used as input for Power BI dashboard.                                                              |
+| `p3.pbix`                | Power BI file containing the interactive dashboard. Includes slicers, KPIs, trend visuals, and category/regional analysis.                            |
+| `p3.pdf`                 | Static PDF snapshot of the final dashboard for quick reference or presentation use.                                                                   |
+
 
 🔗 Live Dashboard
 
