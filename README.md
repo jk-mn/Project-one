@@ -1,4 +1,4 @@
-📊 Retail Sales Performance Dashboard – Power BI + SQL + python (panda)
+📊 Retail Sales Performance Dashboard – Power BI + SQL + python (pandas)
 
 A full-stack analytics project built using SQL for data processing and Power BI for interactive visualization. This dashboard provides actionable insights into 4 years of sales data, helping identify profitable categories, regional trends, discount patterns, and overall performance.
 
