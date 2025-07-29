@@ -22,6 +22,16 @@ Technology category alone contributed to ~60% of profit growth over the 4-year p
 
 East and West regions generated the highest profits.
 
+💡 Key Business Insights (So What?)
+
+Tech = High Profit Driver: Focus on promoting Tech items — 60% of total profit comes from here.
+
+Furniture = High Sales, Low Margin: Review pricing and discount strategy to improve margins.
+
+Central Region Lags: Target regional campaigns to boost revenue and close performance gaps.
+
+Corporate Customers = Best ROI: Prioritize Corporate segment for upselling & long-term value.
+
 🛠️ Tools & Tech Stack Component	Tool Used
 
 Data Processing	PostgreSQL (SQL)
